@@ -1,0 +1,13 @@
+clinic_system/
+├── app.py
+├── database/
+│   ├── __init__.py
+│   ├── db_patients.py
+│   ├── db_doctors.py
+│   ├── db_appointments.py
+│   ├── db_prescriptions.py
+│   ├── db_bills.py
+│   └── db_connection.py
+├── templates/
+├── static/
+└── requirements.txt
